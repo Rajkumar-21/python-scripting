@@ -1,5 +1,5 @@
 import os
-path = input("Enter the path to list your directories: ")
+path = input(os.li)
 result = print(os.listdir(path))
 
 fileout = os.path.isfile(path)
